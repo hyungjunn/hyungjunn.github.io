@@ -1,11 +1,11 @@
 # Site settings
-title: Hyoungjunn Lim blog
+title: Hyungjunn Lim blog
 email: 
 description: "Backend Engineer."
 baseurl: ""
-url: "http://hyoungjunn.github.io"
+url: "http://hyungjunn.github.io"
 twitter_username: Hotfirebulldog
-github_username:  hyoungjunn
+github_username:  hyungjunn
 
 # Build settings
 markdown: kramdown
