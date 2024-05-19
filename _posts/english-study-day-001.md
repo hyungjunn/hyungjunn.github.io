@@ -1,3 +1,12 @@
+---
+layout: post
+comments: true
+title: "English Study Day 001"
+excerpt: "This blog is an English learning blog. Future plans are as follows."
+date:   2024-05-20 03:00:00 
+mathjax: false
+---
+
 # English Study
 
 This blog is an English learning blog. Future plans are as follows.
